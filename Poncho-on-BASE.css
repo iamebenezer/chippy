@@ -732,7 +732,7 @@
 
  @media (max-width: 575px) {
      .u-section-4 .u-sheet-1 {
-         min-height: 2235px;
+         /* min-height: 2235px; */
      }
      .u-section-4 .u-text-1 {
          font-size: 1.875rem;
@@ -1078,7 +1078,7 @@
      }
      .u-section-6 .u-group-1 {
          width: 333px;
-         min-height: 584px;
+         /* min-height: 584px; */
          margin: 3px 0 -134px auto;
      }
      .u-section-6 .u-container-layout-3 {
